@@ -1,0 +1,6 @@
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_Runner\MSSQL_Runner\bin\x64\Release\MSSQL_Runner.exe.config
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_Runner\MSSQL_Runner\bin\x64\Release\MSSQL_Runner.exe
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_Runner\MSSQL_Runner\bin\x64\Release\MSSQL_Runner.pdb
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_Runner\MSSQL_Runner\obj\x64\Release\MSSQL_Runner.csprojAssemblyReference.cache
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_Runner\MSSQL_Runner\obj\x64\Release\MSSQL_Runner.exe
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_Runner\MSSQL_Runner\obj\x64\Release\MSSQL_Runner.pdb

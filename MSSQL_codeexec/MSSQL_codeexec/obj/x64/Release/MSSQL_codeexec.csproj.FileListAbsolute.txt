@@ -1,0 +1,6 @@
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_codeexec\MSSQL_codeexec\bin\x64\Release\MSSQL_codeexec.exe.config
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_codeexec\MSSQL_codeexec\bin\x64\Release\MSSQL_codeexec.exe
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_codeexec\MSSQL_codeexec\bin\x64\Release\MSSQL_codeexec.pdb
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_codeexec\MSSQL_codeexec\obj\x64\Release\MSSQL_codeexec.csprojAssemblyReference.cache
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_codeexec\MSSQL_codeexec\obj\x64\Release\MSSQL_codeexec.exe
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_codeexec\MSSQL_codeexec\obj\x64\Release\MSSQL_codeexec.pdb

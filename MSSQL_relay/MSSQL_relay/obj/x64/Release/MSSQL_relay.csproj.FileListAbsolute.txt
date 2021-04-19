@@ -1,0 +1,6 @@
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_relay\MSSQL_relay\bin\x64\Release\MSSQL_relay.exe.config
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_relay\MSSQL_relay\bin\x64\Release\MSSQL_relay.exe
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_relay\MSSQL_relay\bin\x64\Release\MSSQL_relay.pdb
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_relay\MSSQL_relay\obj\x64\Release\MSSQL_relay.csprojAssemblyReference.cache
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_relay\MSSQL_relay\obj\x64\Release\MSSQL_relay.exe
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_relay\MSSQL_relay\obj\x64\Release\MSSQL_relay.pdb

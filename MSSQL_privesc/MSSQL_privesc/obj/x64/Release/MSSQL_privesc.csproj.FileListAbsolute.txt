@@ -1,0 +1,6 @@
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_privesc\MSSQL_privesc\obj\x64\Release\MSSQL_privesc.csprojAssemblyReference.cache
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_privesc\MSSQL_privesc\bin\x64\Release\MSSQL_privesc.exe.config
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_privesc\MSSQL_privesc\bin\x64\Release\MSSQL_privesc.exe
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_privesc\MSSQL_privesc\bin\x64\Release\MSSQL_privesc.pdb
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_privesc\MSSQL_privesc\obj\x64\Release\MSSQL_privesc.exe
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_privesc\MSSQL_privesc\obj\x64\Release\MSSQL_privesc.pdb

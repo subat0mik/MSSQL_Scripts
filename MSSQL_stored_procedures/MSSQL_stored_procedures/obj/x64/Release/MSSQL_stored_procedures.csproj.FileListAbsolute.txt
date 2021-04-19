@@ -1,0 +1,5 @@
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_stored_procedures\MSSQL_stored_procedures\bin\x64\Release\MSSQL_stored_procedures.dll
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_stored_procedures\MSSQL_stored_procedures\bin\x64\Release\MSSQL_stored_procedures.pdb
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_stored_procedures\MSSQL_stored_procedures\obj\x64\Release\MSSQL_stored_procedures.csprojAssemblyReference.cache
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_stored_procedures\MSSQL_stored_procedures\obj\x64\Release\MSSQL_stored_procedures.dll
+C:\Users\offsec.CORP1.000\Desktop\MSSQL_stored_procedures\MSSQL_stored_procedures\obj\x64\Release\MSSQL_stored_procedures.pdb
